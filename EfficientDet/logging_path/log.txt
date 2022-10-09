@@ -1,0 +1,124 @@
+Fitter prepared. Device is cuda
+
+2022-10-09T07:08:43.747675
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:12:25.365718
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:15:11.240822
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:16:18.857973
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:17:33.500242
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:18:57.818829
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:29:34.511606
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:36:50.509754
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:40:00.405483
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:40:15.813414
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T07:48:53.742869
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:04:55.224792
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:10:11.104685
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:15:29.980053
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:20:43.232106
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:20:56.024877
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:41:39.397480
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:42:33.765921
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:43:43.507105
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:44:58.881812
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:47:16.791662
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:47:51.276589
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:52:47.813182
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:53:05.222863
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:53:44.316010
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T08:58:44.916933
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T09:00:15.405805
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T09:08:30.192450
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T09:08:57.553551
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T09:09:41.796383
+LR: 0.0002
+Fitter prepared. Device is cuda
+
+2022-10-09T09:10:12.933169
+LR: 0.0002
