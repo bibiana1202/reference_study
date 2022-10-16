@@ -1,4 +1,5 @@
 ## reference_study
+- 레퍼런스 학습 정리 자세한 내용은...
  <a href="https://www.notion.so/wew1202/0c010d8eb9f1439e9af13573cc629aed">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
  
  ## 공부한 데이터
