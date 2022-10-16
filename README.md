@@ -21,10 +21,12 @@
      - 💡 데이터: 18002 파일, 205.96GB, dicom, csv
 
 
----
+## 공부한 모델
+
+
 1. Faster RCNN
-   1) VinBigData
-   2) 병변탐지 lesionData
+   -  VinBigData
+   -  lesionData
 
 2. Efficient_Det
-   1) VinBigData
+   -  VinBigData
