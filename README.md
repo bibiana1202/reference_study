@@ -31,3 +31,6 @@
 
 2. Efficient_Det
    -  VinBigData
+
+3. MMDetection - Faster RCNN, CAS,Swin
+   -  VinBigData
